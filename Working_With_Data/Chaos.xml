@@ -1,0 +1,28 @@
+<?xml version='1.8' encoding='UTF-8'?>
+<warlords>
+
+    <warlord>
+        <name>Angron</name>
+        <legion>World Eaters</legion>
+        <allegiance>Khorne</allegiance>
+    </warlord>
+
+    <warlord>
+        <name>Mortarion</name>
+        <legion>Death Guard</legion>
+        <allegiance>Nurgle</allegiance>
+    </warlord>
+
+    <warlord>
+        <name>Magnus</name>
+        <legion>Thousand Sons</legion>
+        <allegiance>Tzeentch</allegiance>
+    </warlord>
+
+    <warlord>
+        <name>Fulgrim</name>
+        <legion>Emperor's Children</legion>
+        <allegiance>Slaanesh</allegiance>
+    </warlord>
+
+</warlords>
